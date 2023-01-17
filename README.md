@@ -26,3 +26,12 @@ Absolute path: "./Colab Notebooks/yolo/yolov4", path to folder and files.
 * test.txt (images for test, created automatically in code)
 * /testSlike/ ((test) images that have not been in training dataset)
 * /testSlikeOznacene/ (tagged test images - output from our model - results from object detection) 
+
+## License
+
+Code was originally forked from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) which is a fork from [pjreddie/darknet](https://github.com/pjreddie/darknet) and is licensed under the [GPLv3] 
+This project is licensed under GPL-3.0 license. It seems to be the strictest from forks(see the LICENSE file for details).
+
+## Disclaimer
+
+This framework is provided as-is, and there are no guarantees that it fits your purposes or that it is bug-free. Use it at your own risk!
